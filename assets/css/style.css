@@ -1664,7 +1664,7 @@ footer .col-8 {
   @media (min-width: 768px){
     .col-md-6 {
       flex: 0 0 auto;
-       width: 100%; 
+       width: 50%; 
   }
    
 .col-md-5 {
